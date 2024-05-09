@@ -13,7 +13,7 @@ let token= 'auto';
 //内置订阅器嵌套
 let sub = 'sub.fbi.cloudns.be';//订阅器
 let subconverter = 'apiurl.v1.mk';//转换后端
-let subconfig = 'https://raw.githubusercontent.com/JustLagom/test/main/urltestconfig.ini';//配置文件config
+let subconfig = 'https://raw.githubusercontent.com/As-Lucky/Lucky/main/Lucky-ClashVerge.yaml';//配置文件config
 
 if (!isValidSHA224(sha224Password)) {
     throw new Error('sha224Password is not valid');
