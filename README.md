@@ -1,7 +1,5 @@
 **wokers或pages部署Trojan节点**
-**password**
-**sha224password**
-**token**
+**password-sha224password-token**
 **改为自设的**
 
 **访问**
